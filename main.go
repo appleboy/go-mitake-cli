@@ -36,8 +36,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	client := &http.Client{Transport: &http.Transport{TLSClientConfig: &tls.Config{InsecureSkipVerify: true}}}
-	sms := mitake.NewClient(username, password, client)
+	sms := mitake.NewClient(username, password, nil)
 
 	resp, err := sms.Send(mitake.Message{
 		Dstaddr: to,
