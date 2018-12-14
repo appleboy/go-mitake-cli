@@ -1,10 +1,8 @@
 package main
 
 import (
-	"crypto/tls"
 	"flag"
 	"fmt"
-	"net/http"
 	"os"
 
 	"github.com/minchao/go-mitake"
