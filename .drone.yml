@@ -2,8 +2,8 @@ kind: pipeline
 name: lint
 
 steps:
-  - name: testing
-    image: golang:1.11
-    pull: true
-    commands:
-      - go build .
+- name: testing
+  image: golang:1.11
+  pull: true
+  commands:
+  - go build .
