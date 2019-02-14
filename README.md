@@ -1,5 +1,7 @@
 # go-mitake-cli
 
+[![Build Status](https://cloud.drone.io/api/badges/appleboy/go-mitake-cli/status.svg)](https://cloud.drone.io/appleboy/go-mitake-cli)
+
 三竹簡訊測試用 CLI 程式
 
 ## 安裝方式
