@@ -1,4 +1,4 @@
 github.com/minchao/go-mitake v0.0.0-20180710150023-78ccac4cf025 h1:7MYfueUS0EVpkH4j8dtn/MVlmAc3pOCyg36qCcmKVeo=
 github.com/minchao/go-mitake v0.0.0-20180710150023-78ccac4cf025/go.mod h1:YUBIgXvs91rpVcSw4GOJqE9MymN9xn5yhml6+R/K9Ys=
-golang.org/x/text v0.0.0-20180805044716-cb6730876b98 h1:eghQ6a9jJT9Ot8brVPUWPNFHIP/BhgDpjskdrGn1ktE=
-golang.org/x/text v0.0.0-20180805044716-cb6730876b98/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+golang.org/x/text v0.3.8 h1:nAL+RVCQ9uMn3vJZbV+MRnydTJFPf8qqY42YiA6MrqY=
+golang.org/x/text v0.3.8/go.mod h1:E6s5w1FMmriuDzIBO73fBruAKo1PCIq6d2Q6DHfQ8WQ=
